@@ -1,0 +1,5 @@
+{
+  "name": "ZenLMS - Modern Learning Management System",
+  "description": "A full-stack LMS with Admin dashboard, student portal, leaderboard, and user management. Features role-based access, CRUD for lessons and questions, and a high-performance frontend.",
+  "requestFramePermissions": []
+}
